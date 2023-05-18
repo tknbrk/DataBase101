@@ -1,6 +1,6 @@
 # Northwind Veritabanı SQL Pratikleri
 
-Bu depo, Northwind veritabanında gerçekleştirdiğim SQL sorguları ve çalışmalarını içermektedir. Bu pratikler, SQL becerilerimi geliştirmek ve pratik yapmak amacıyla oluşturulmuştur.
+Bu repo, Northwind veritabanında gerçekleştirdiğim SQL sorguları ve çalışmalarını içermektedir. Bu pratikler, SQL becerilerimi geliştirmek ve pratik yapmak amacıyla oluşturulmuştur.
 
 ## Veritabanı Hakkında
 
@@ -11,6 +11,8 @@ Northwind veritabanı, bir örnek veritabanıdır ve ticaret şirketi faaliyetle
 Bu depo aşağıdaki içerikleri içermektedir:
 1. GroupBy Distinct
 2. Join Inner Join
+3. Full Join
+4. WorkShop
 
 
 
