@@ -12,7 +12,7 @@ Bu depo aşağıdaki içerikleri içermektedir:
 1. GroupBy Distinct
 2. Join Inner Join
 3. Full Join
-4. WorkShop
+4. WorkShops
 
 
 
