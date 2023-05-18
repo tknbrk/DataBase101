@@ -10,9 +10,7 @@ Northwind veritabanı, bir örnek veritabanıdır ve ticaret şirketi faaliyetle
 
 Bu depo aşağıdaki içerikleri içermektedir:
 
-1. `sorgu1.sql`: Müşteriler tablosundan belirli bir şehirde yaşayan müşterileri listeleme sorgusu.
-2. `sorgu2.sql`: Siparişler tablosundan belirli bir tarih aralığındaki siparişleri listeleme sorgusu.
-3. `sorgu3.sql`: Ürünler tablosundaki en pahalı ürünün adını ve fiyatını bulma sorgusu.
+
 
 ## Nasıl Kullanılır
 
