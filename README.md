@@ -1,6 +1,6 @@
 # Northwind Veritabanı SQL Pratikleri
 
-![Northwind Veritabanı](https://example.com/northwind-logo.png)
+![Northwind Veritabanı](https://www.google.com/url?sa=i&url=https%3A%2F%2Frestdb.io%2Fblog%2Fthe-classic-northwind-database-converted-to-the-nosql-world&psig=AOvVaw2RDLzpcrHm9fOXXZ1tWO_6&ust=1684525221145000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjMn87P__4CFQAAAAAdAAAAABAE)
 
 Bu repo, Northwind veritabanında gerçekleştirdiğim SQL sorguları ve çalışmalarını içermektedir. Bu pratikler, SQL becerilerimi geliştirmek ve pratik yapmak amacıyla oluşturulmuştur.
 
