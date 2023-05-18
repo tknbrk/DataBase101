@@ -9,6 +9,8 @@ Northwind veritabanı, bir örnek veritabanıdır ve ticaret şirketi faaliyetle
 ## İçerikler
 
 Bu depo aşağıdaki içerikleri içermektedir:
+1. GroupBy Distinct
+2. Join Inner Join
 
 
 
