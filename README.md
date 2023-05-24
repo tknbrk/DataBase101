@@ -14,6 +14,10 @@ Bu depo aşağıdaki içerikleri içermektedir:
 - GroupBy Distinct
 - Join Inner Join
 - Full Join
+- Insert Into
+- Update
+- Delete
+- Insert With Select
 - WorkShops
 
 ## Nasıl Kullanılır
