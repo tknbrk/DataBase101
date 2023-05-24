@@ -20,7 +20,19 @@ Bu depo aşağıdaki içerikleri içermektedir:
 - Insert With Select
 - Update With Join
 - WorkShops
-
+- Index
+   -SQL'de "index" (dizin), veritabanında verilere daha hızlı erişim sağlamak için kullanılan bir yapıdır. Bir kitapta belirli bir sayfaya hızlıca gitmek istiyoruz. Kitapta sayfalar numaralandırılmış ve bir "index" sayfası vardır. Bu indexte hangi kelimenin hangi sayfada bulunduğu belirtilir. İşte SQL'deki indeksler de benzer şekilde çalışır.
+      * Bir index, veritabanı tablolarında verilere daha hızlı erişim sağlamak için kullanılan bir veri yapısıdır.
+      * Bir veya daha fazla sütuna index oluşturulabilir.
+      * Index, belirli bir sütundaki değerleri hızlı bir şekilde bulmayı sağlar.
+      * Index oluşturulduğunda, veriler bir indeks ağacında saklanır ve mantıksal bir sıralamaya tabi tutulur.
+      * Indexler, sorguların daha hızlı çalışmasını sağlar ve sorgu performansını artırır.
+      * Indexler, büyük veritabanlarında veri erişimini hızlandırır ve sorgu zamanını azaltır.
+      * Indexler, veritabanının depolama alanını artırır çünkü ayrı bir yapıda saklanır.
+      * Indexlerin güncellenmesi ve bakımı, veri ekleme, güncelleme veya silme işlemleri sırasında ek yük getirebilir.
+      * Indexler, veri bütünlüğünü sağlamak ve kısıtlamaları uygulamak için kullanılabilir.
+      * Indexler, veritabanı tasarımında dikkatli bir şekilde kullanılmalı ve ihtiyaçlarına göre optimize edilmelidir.
+   
 ## Nasıl Kullanılır
 
 1. Bu depoyu yerel makinenize klonlayın:
