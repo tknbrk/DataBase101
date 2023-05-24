@@ -18,6 +18,7 @@ Bu depo aşağıdaki içerikleri içermektedir:
 - Update
 - Delete
 - Insert With Select
+- Update With Join
 - WorkShops
 
 ## Nasıl Kullanılır
