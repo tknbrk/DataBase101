@@ -32,6 +32,17 @@ Bu depo aşağıdaki içerikleri içermektedir:
       * Indexlerin güncellenmesi ve bakımı, veri ekleme, güncelleme veya silme işlemleri sırasında ek yük getirebilir.
       * Indexler, veri bütünlüğünü sağlamak ve kısıtlamaları uygulamak için kullanılabilir.
       * Indexler, veritabanı tasarımında dikkatli bir şekilde kullanılmalı ve ihtiyaçlarına göre optimize edilmelidir.
+      
+### Best Practice Odaklı İndeks 
+      * Doğru Alan Seçimi: İndeksi uygulanacak alanın sorguların performansını en çok etkileyen alanlar olması önemlidir. Sık kullanılan veya filtreleme işlemlerinde sıklıkla kullanılan alanlar indekslenmelidir.
+
+      * İndeks Boyutunu Kontrol Etmek: İndeksler, tablodaki verilere ek olarak bir alanı daha depolarlar. Bu nedenle, gereksiz indekslerin oluşturulmaması ve indeks boyutunun kontrol altında tutulması önemlidir. Büyük boyuttaki indeksler performansı olumsuz etkileyebilir.
+
+      * Düzenli İndeks Bakımı: Veritabanında yapılan güncelleme, ekleme veya silme işlemleri indeksleri etkiler. Bu nedenle, indekslerin düzenli olarak bakımının yapılması ve gerektiğinde yeniden oluşturulması önemlidir.
+
+      * Çok Sütunlu İndeksler: Sık kullanılan sorguların performansını artırmak için birden fazla sütunu içeren indeksler oluşturulabilir. Bu şekilde, sorguların birden fazla sütunda arama yapması gerektiğinde indekslerden yararlanılabilir.
+
+      * İndeks İşlevleri: Bazı durumlarda, özel işlevler kullanarak indekslerin performansını artırmak mümkündür. Örneğin, metin tabanlı sütunlarda arama yaparken indekslere başvurmak için tam metin indeksler kullanılabilir.
    
 ## Nasıl Kullanılır
 
